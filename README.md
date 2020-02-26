@@ -10,4 +10,4 @@ AS AN avid traveller, I WANT to be able to track my withdrawals and deposits wit
 
 # Deployed Page
 
-https://fitness-atd.herokuapp.com/
+https://budget-atd.herokuapp.com/
